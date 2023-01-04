@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "639a9a58c0152336b7c69127"
+  },
+  "expense": "Shoes",
+  "amount": "120",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "639a9ae2c0152336b7c6912a"
+  },
+  "expense": "Hat",
+  "amount": "120",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "639a9b5bc0152336b7c6912d"
+  },
+  "expense": "Jumper",
+  "amount": "120",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "639a9b8f7ccf9265b2cc43ef"
+  },
+  "expense": "Food",
+  "amount": "150",
+  "date": "20/12/22",
+  "notes": "Christmas shopping"
+},{
+  "_id": {
+    "$oid": "639a9c237ccf9265b2cc43f1"
+  },
+  "expense": "Hat",
+  "amount": "120",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "639a9c6a414fc32a18ee205d"
+  },
+  "expense": "Hat",
+  "amount": "120",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "639ab99ef845cf8e5f7eeadc"
+  },
+  "expense": "sunscreen",
+  "amount": "120",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4d5becf427f47d4bf6500"
+  },
+  "expense": "sunscreen",
+  "amount": "120",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4dc68cf427f47d4bf650a"
+  },
+  "expense": "insect repellent",
+  "amount": "10",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4df9ecf427f47d4bf6512"
+  },
+  "expense": "first aid kit",
+  "amount": "60",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4dfd0cf427f47d4bf6514"
+  },
+  "expense": "first aid kit",
+  "amount": "60",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4e0aad63850e16d3f4862"
+  },
+  "expense": "first aid kit",
+  "amount": "60",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4e8fe05b7551555af25ce"
+  },
+  "expense": "first aid kit",
+  "amount": "60",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4e9be05b7551555af25d0"
+  },
+  "expense": "first aid kit",
+  "amount": "60",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4ea1e05b7551555af25d2"
+  },
+  "expense": "first aid kit",
+  "amount": "60",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+},{
+  "_id": {
+    "$oid": "63b4eabe05b7551555af25d5"
+  },
+  "expense": "first aid kit",
+  "amount": "60",
+  "date": "23/08/2022",
+  "notes": "Bush walking"
+}]

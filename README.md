@@ -1,27 +1,41 @@
-# Lesson9njsCodeDemo
-Lesson 9 Code Demo - any advice greatly appreciated! 
+# clg-nodejs-9 
+CLG Node JS Lesson 9
 
-If you have time to review my code and can see an error that may be impacting, I appreciate any feedback! 
+NOTE: Mongodb & Postman have been included as files for assessment purposes only
 
-NOTE: I am using Windows
+*   Build a new API endpoint for the expense tracker
 
-*** Connection of all elements results in an empty array 
-eg 
+    *   Design the schema
 
-[] (This is all that shows)
+*   Update the controller to add CRUD operations
 
-displaying in: 
+*   Observe the database updates
+
+Learning Objectives
+
+*   Practice using API endpoints from Node.js
+
+*   Create an API and perform CRUD operations on the stored data in Mongodb
+
+OUTSTANDING ISSUE: 
+
+*   While my code, Mongodb and Postman are interacting correctly - I am still receiving error massages in response body for POST requests in Postman - despite the POST actually updating or adding as designed.
+
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /expense/list</pre>
+</body>
+</html>
+
+*   Manual testing of file paths excludes them as source of error at this stage
+
+*   Further investigation will be needed to determine cause
 
 
-* Browser - localhost:3000/expense/list 
 
-and
-
-* Postman / GET - localhost:3000/expense/list 
-
-I have tried reinstalling MongoDB and it has not changed the outcome. 
-
-I can see the DB data entries in the mongoshell as well when I use 
-$db.expense.find()
-just can't get them to display in the browser or postman
 
